@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="button">测试人脸</string>
+    <string name="button1">注册特征</string>
+</resources>
